@@ -8,7 +8,7 @@ This repository contains the code for a chatbot using `Langchain` and backed by 
 ## Installation
 1. Clone the repository
 ```
-git clone https://github.com/suryanshgupta9933/Law-GPT.git
+https://github.com/asucada/highradius.git
 ```
 2. Create a virtual environment
 ```
